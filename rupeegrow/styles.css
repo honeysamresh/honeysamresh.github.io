@@ -1,0 +1,12 @@
+/* Custom Styles for RupeeGrow Details Page */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.details {
+    background-color: #f8f9fa;
+}
+
+.details p {
+    font-size: 1.2rem;
+}
